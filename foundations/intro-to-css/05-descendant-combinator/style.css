@@ -1,0 +1,10 @@
+.container {
+  color: rebeccapurple;
+  font-weight: 999;
+  .text {
+    background-color: #ff0;
+    color: #f00;
+    font-size: 20px;
+    text-align: center;  
+  }
+}
